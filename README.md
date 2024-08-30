@@ -10,7 +10,7 @@
 * [Resultado](#resultado)
 
 ## Introdução
-Este projeto consiste em um sistema simples de login e cadastro de usuários, desenvolvido em JavaScript, HTML e CSS. O objetivo principal é fornecer uma interface amigável onde os usuários podem se registrar com seus nomes e, em seguida, visualizar, editar ou excluir suas informações cadastradas.
+Este projeto é uma versão melhorada e aprimorada de [LOGIN CAD v2], onde arrumamos erros do antigo trabalho, que tinha como objetivo adicionar avanços na tela de cadastro permitindo que o usuário consiga adicionar um novo Email, salvar, editar ou exclui-lo. Também adicionamos uma melhoria que permite agora preencher o campo de CPF, validando o mesmo.
 
 ° Funcionalidades Principais:
 Tela de Login: Os usuários são recebidos em uma tela de login onde devem inserir seu e-mail e senha. O sistema verifica se ambos os campos estão preenchidos e, em caso afirmativo, redireciona o usuário para a tela de cadastro.
